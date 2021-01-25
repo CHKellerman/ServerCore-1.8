@@ -1,0 +1,32 @@
+commands:
+  heal:
+    enabled: true
+    permission: "core.heal"
+    delay: 60
+  feed:
+    enabled: true
+    permission: "core.feed"
+    delay: 60
+  gamemode:
+    permission: "core.gamemode"
+    enabled: true
+  speed:
+    permission: "core.speed"
+    enabled: true
+  socialspy:
+    permission: "core.socialspy"
+  fly:
+    permission: "core.fly"
+    enabled: true
+  sudo:
+    permission: "core.sudo"
+    enabled: true
+msg:
+  prefix: "&cServerCore &7-"
+  consoleprefix: "(ServerCore)"
+  notisntanceofplayer: "&cOnly players can use this command!"
+  playernotonline: "&cThat player is not online!"
+  nopermission: "&cYou do not have access to this command!"
+
+
+socialspy:
